@@ -1,0 +1,12 @@
+C:\Users\arist\source\repos\LSBlog\src\LSB.Domain\bin\Debug\net7.0\LSB.Domain.deps.json
+C:\Users\arist\source\repos\LSBlog\src\LSB.Domain\bin\Debug\net7.0\LSB.Domain.dll
+C:\Users\arist\source\repos\LSBlog\src\LSB.Domain\bin\Debug\net7.0\LSB.Domain.pdb
+C:\Users\arist\source\repos\LSBlog\src\LSB.Domain\obj\Debug\net7.0\LSB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arist\source\repos\LSBlog\src\LSB.Domain\obj\Debug\net7.0\LSB.Domain.AssemblyInfoInputs.cache
+C:\Users\arist\source\repos\LSBlog\src\LSB.Domain\obj\Debug\net7.0\LSB.Domain.AssemblyInfo.cs
+C:\Users\arist\source\repos\LSBlog\src\LSB.Domain\obj\Debug\net7.0\LSB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\arist\source\repos\LSBlog\src\LSB.Domain\obj\Debug\net7.0\LSB.Domain.sourcelink.json
+C:\Users\arist\source\repos\LSBlog\src\LSB.Domain\obj\Debug\net7.0\LSB.Domain.dll
+C:\Users\arist\source\repos\LSBlog\src\LSB.Domain\obj\Debug\net7.0\refint\LSB.Domain.dll
+C:\Users\arist\source\repos\LSBlog\src\LSB.Domain\obj\Debug\net7.0\LSB.Domain.pdb
+C:\Users\arist\source\repos\LSBlog\src\LSB.Domain\obj\Debug\net7.0\ref\LSB.Domain.dll

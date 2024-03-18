@@ -1,0 +1,12 @@
+C:\Users\arist\source\repos\LSBlog\src\LSB.Contracts\bin\Debug\net7.0\LSB.Contracts.deps.json
+C:\Users\arist\source\repos\LSBlog\src\LSB.Contracts\bin\Debug\net7.0\LSB.Contracts.dll
+C:\Users\arist\source\repos\LSBlog\src\LSB.Contracts\bin\Debug\net7.0\LSB.Contracts.pdb
+C:\Users\arist\source\repos\LSBlog\src\LSB.Contracts\obj\Debug\net7.0\LSB.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arist\source\repos\LSBlog\src\LSB.Contracts\obj\Debug\net7.0\LSB.Contracts.AssemblyInfoInputs.cache
+C:\Users\arist\source\repos\LSBlog\src\LSB.Contracts\obj\Debug\net7.0\LSB.Contracts.AssemblyInfo.cs
+C:\Users\arist\source\repos\LSBlog\src\LSB.Contracts\obj\Debug\net7.0\LSB.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\arist\source\repos\LSBlog\src\LSB.Contracts\obj\Debug\net7.0\LSB.Contracts.sourcelink.json
+C:\Users\arist\source\repos\LSBlog\src\LSB.Contracts\obj\Debug\net7.0\LSB.Contracts.dll
+C:\Users\arist\source\repos\LSBlog\src\LSB.Contracts\obj\Debug\net7.0\refint\LSB.Contracts.dll
+C:\Users\arist\source\repos\LSBlog\src\LSB.Contracts\obj\Debug\net7.0\LSB.Contracts.pdb
+C:\Users\arist\source\repos\LSBlog\src\LSB.Contracts\obj\Debug\net7.0\ref\LSB.Contracts.dll

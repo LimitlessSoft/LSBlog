@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tEU8uBgpBQJXK6R+b4GdQtegr9x1a1AHMYEKX7SxA+UNSdgVTvIS+B/tDqdaxQsmcthxXef0t0YO7oElrgNEOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arist\\source\\repos\\LSBlog\\src\\LSB.Repository\\LSB.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arist\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\arist\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\arist\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

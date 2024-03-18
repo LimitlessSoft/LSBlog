@@ -1,0 +1,12 @@
+C:\Users\arist\source\repos\LSBlog\src\LSB.Repository\bin\Debug\net7.0\LSB.Repository.deps.json
+C:\Users\arist\source\repos\LSBlog\src\LSB.Repository\bin\Debug\net7.0\LSB.Repository.dll
+C:\Users\arist\source\repos\LSBlog\src\LSB.Repository\bin\Debug\net7.0\LSB.Repository.pdb
+C:\Users\arist\source\repos\LSBlog\src\LSB.Repository\obj\Debug\net7.0\LSB.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arist\source\repos\LSBlog\src\LSB.Repository\obj\Debug\net7.0\LSB.Repository.AssemblyInfoInputs.cache
+C:\Users\arist\source\repos\LSBlog\src\LSB.Repository\obj\Debug\net7.0\LSB.Repository.AssemblyInfo.cs
+C:\Users\arist\source\repos\LSBlog\src\LSB.Repository\obj\Debug\net7.0\LSB.Repository.csproj.CoreCompileInputs.cache
+C:\Users\arist\source\repos\LSBlog\src\LSB.Repository\obj\Debug\net7.0\LSB.Repository.sourcelink.json
+C:\Users\arist\source\repos\LSBlog\src\LSB.Repository\obj\Debug\net7.0\LSB.Repository.dll
+C:\Users\arist\source\repos\LSBlog\src\LSB.Repository\obj\Debug\net7.0\refint\LSB.Repository.dll
+C:\Users\arist\source\repos\LSBlog\src\LSB.Repository\obj\Debug\net7.0\LSB.Repository.pdb
+C:\Users\arist\source\repos\LSBlog\src\LSB.Repository\obj\Debug\net7.0\ref\LSB.Repository.dll

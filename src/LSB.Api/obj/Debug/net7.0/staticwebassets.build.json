@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QEr0Ey87sNHuaShdvYvxJoMnUZiPs5jbzZWerkIpZeM=",
+  "Source": "LSB.Api",
+  "BasePath": "_content/LSB.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
